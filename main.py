@@ -16,4 +16,11 @@ if __name__ == '__main__':
 print("hello world")
 print("testing")
 
+
+def jassem(a, b):
+    jassem = a + b
+
+
+a = int(input())
+b = int(input())
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
